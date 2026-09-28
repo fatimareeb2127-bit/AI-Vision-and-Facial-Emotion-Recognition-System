@@ -1,0 +1,11 @@
+numpy<2.2
+Pillow>=10
+opencv-python>=4.8
+mediapipe>=0.10
+tensorflow>=2.16
+matplotlib>=3.8
+scikit-learn>=1.4
+keras
+numpy
+opencv_python
+ultralytics
